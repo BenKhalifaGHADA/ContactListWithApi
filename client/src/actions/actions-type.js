@@ -1,0 +1,5 @@
+export const CONTACT_ADD="CONTACT_ADD"
+export const CONTACT_REMOVE="CONTACT_REMOVE"
+export const CONTACT_EDIT="CONTACT_EDIT"
+export const GET_ITEMS="GET_ITEMS"
+export const ITEMS_LOADING="ITEMS_LOADING"

@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+}
+.contact-app{
+  width:500px;
+  margin:auto;
+  text-align: center;
+}
+.boutons{
+  display: flex;
+  justify-content: space-around;
+  
+}
